@@ -20,5 +20,6 @@ Coding Languages
 	---
  
 
-[title]([https://www.example.com](https://nationalpost.com/news/canada/canadian-military-veteran-says-one-year-old-bear-saved-his-life-by-performing-cpr))
+[Canadian military vet saved by Bear who jumped on his chest so hard during heart attack that it left paw prints](https://nationalpost.com/news/canada/canadian-military-veteran-says-one-year-old-bear-saved-his-life-by-performing-cpr)
+
 ![smurtdog](https://github.com/user-attachments/assets/6f867172-3ad8-467b-80eb-103dc800b263)
