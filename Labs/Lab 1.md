@@ -19,7 +19,15 @@ by creating and testing a simple half adder code.
 <img width="500" alt="Image" src="https://github.com/user-attachments/assets/d3407fe2-a925-416c-86f3-ce000b948328" />
 
 
-**Command Prompt errors, analyze, and execute the files**
+**Command Prompt scans for errors, analyze, and execute the files**
 
 <img width="498" alt="Image" src="https://github.com/user-attachments/assets/c0dd4fef-2d26-4379-a25b-79c80e8566e3" />
+
+
+**Command Prompt run simulation and display signals**
+
+<img width="497" alt="Image" src="https://github.com/user-attachments/assets/29d15f51-6cc8-49bc-95fb-ef9540fbce84" />
+
+
+
 
