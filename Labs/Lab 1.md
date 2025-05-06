@@ -12,3 +12,12 @@ by creating and testing a simple half adder code.
 **Notepad++ ha.vhdl**
 
 <img width="624" alt="Image" src="https://github.com/user-attachments/assets/639b67ef-aa2d-4d37-9189-8e771fa42381" />
+
+**Notepad++ Test Block for Half-Adder ha_tb.vhdl**
+
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/d3407fe2-a925-416c-86f3-ce000b948328" />
+
+**Command Prompt errors, analyze, and execute the files**
+
+<img width="498" alt="Image" src="https://github.com/user-attachments/assets/c0dd4fef-2d26-4379-a25b-79c80e8566e3" />
+
