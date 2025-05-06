@@ -10,4 +10,5 @@ a user to use various languages. The goal of this lab is to explore the capabili
 by creating and testing a simple half adder code.
 
 **Notepad++ ha.vhdl**
+
 <img width="624" alt="Image" src="https://github.com/user-attachments/assets/639b67ef-aa2d-4d37-9189-8e771fa42381" />
