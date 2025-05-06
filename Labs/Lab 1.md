@@ -29,5 +29,13 @@ by creating and testing a simple half adder code.
 <img width="497" alt="Image" src="https://github.com/user-attachments/assets/29d15f51-6cc8-49bc-95fb-ef9540fbce84" />
 
 
+**Signal produced at different values**
 
+<img width="501" alt="Image" src="https://github.com/user-attachments/assets/9d464cfb-8735-4dc1-a6c4-7a0c93687eab" />
+
+<img width="502" alt="Image" src="https://github.com/user-attachments/assets/efc67df5-d112-494d-aa79-0e8480a1db36" />
+
+<img width="497" alt="Image" src="https://github.com/user-attachments/assets/a2976bfb-ec1e-452d-b2ea-67a5d9eff3ca" />
+
+<img width="498" alt="Image" src="https://github.com/user-attachments/assets/fabdaa85-b551-4297-b2d5-8a8aa77665e4" />
 
